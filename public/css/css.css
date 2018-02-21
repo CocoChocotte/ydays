@@ -44,7 +44,13 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-4 {
-    background-image: url("../images/portfolio.png");
+    background-image: url("../images/portfolio.jpg");
     min-height: 400px;
     background-attachment:fixed;
+}
+
+
+.bgimg-5 {
+    background-color: grey;
+    min-height: 200px;
 }

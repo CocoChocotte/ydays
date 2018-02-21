@@ -29,15 +29,17 @@ Route::get('/addContact',function(){
 	return View::make('layout.addContact');
 });
 
-Route::get('/realisation',function(){
-	return View::make('layout.realisation');
+Route::get('/realisations',function(){
+	return View::make('layout.realisations');
 });
 
 Route::get('/about',function(){
 	return View::make('layout.about');
 });
 
-
+Route::get('/portfolio',function(){
+	return View::make('layout.portfolio');
+});
 
 
 

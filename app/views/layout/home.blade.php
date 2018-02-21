@@ -28,7 +28,7 @@
  
 
 <!-- Projets en cours -->
-<div class="bgimg-2 w3-display-container w3-opacity-min">
+<div class="bgimg-4 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
     <span class="w3-xxlarge w3-text-white w3-wide">PROJETS EN COURS</span>
   </div>
@@ -46,7 +46,7 @@
 
 
 <!-- Container (Contact Section) -->
-<div class="bgimg-2 w3-display-container w3-opacity-min">
+<div class="bgimg-4 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
     <span class="w3-xxlarge w3-text-white w3-wide"> ? </span>
   </div>
